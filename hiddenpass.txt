@@ -1,0 +1,877 @@
+linlee	worland		9004955  
+LF
+Layliana	Floyd		9006668  
+AM
+Alyssa	Mobley		9005225  
+MD
+marissa	davis		900590  
+SA
+Skylar	Anglemyer		9005899  
+AC
+allison	carmichael		9005435  
+OH
+Olivia	halfacre		9006367  
+NB
+Novah	Bishop		9006550  
+IS
+Ily	Swan		9005285  
+MM
+Megan	Mobley		9005686  
+
+	Sydney	downes		9005006  
+CW
+Conner	Wright		cw9005956  
+EP
+Ethan	Poindexter		9007030  
+SM
+savannah	miller		9005046  
+AC
+Annabell	Chapin		ac9006434  
+KL
+Karson	Leathers		900589  
+KH
+Keith	Hyser		9004540  
+AH
+Ava	Hale		900554  
+JW
+Jacob	walden		9005458  
+MH
+Mark	Herbert		9008603  
+Ayla	Smith		9006053  
+HH
+hannah	hauser		9008  
+UH
+Uriah	Hoy		9005886  
+JR
+Joshua	Riddle		9005453  
+AH
+Amelia	Hacker-Robertson		9004989  
+NH
+Naomi	Hunter		9005890  
+HD
+Hannah	Donahue		9005392  
+BS
+brooklyn	schultz		bs900624  
+MH
+maddysun	harkrider		900544  
+VA
+Vera	Adams		9005573  
+	Madison	Jenkins		9005856  
+LR
+laraeha	ray		lr9005648  
+KC
+Kyli	Cassity		9005500  
+IK
+ian	koons		9005234  
+KF
+Kaydence	Fishel		9005439  
+EH
+Emma	Haggard		9005905  
+HD
+Henry	DuBois		9003938  
+	Matthias	Campbell		9008607  
+SK
+stormie	knight		9005952  
+VD
+Viola	Davis		9005875  
+RS
+Rocco	strunk		9008073  
+JS
+Jacob	Saunders		js9005494  
+LA
+Levi	Angrick		900596  
+LF
+Londyn	Frye		9004967  
+AK
+Axel	King		9005639  
+HB
+Harper	Batson		900597  
+JK
+Jack	Knox		9005888  
+Deven	Newby		dn9005682  
+KJ
+Kaleigh	Jackson		900736  
+BW
+brayden	wright		9006868  
+TP
+Trevion	Parker		900545  
+MK
+Madelyn	Knight		9007699  
+DP
+Dawson	Pruett		9005922  
+AH
+aidyn	harrell		9007726  
+JL
+jaren	litton		9005606  
+KS
+Karleigh	simpson		90088  
+KB
+Kennedy	Burton		9005593 
+EH
+Emma	Haggard		9005905  
+HD
+Henry	DuBois		9003938  
+UH
+Uriah	Hoy		9005886  
+ST
+savannah	traver		9007578  
+TW
+tatum	white		900549  
+MC
+Matthias	Campbell		9008607  
+SK
+stormie	knight		9005952  
+VD
+Viola	Davis		9005875  
+RS
+Rocco	strunk		9008073  
+JS
+Jacob	Saunders		js9005494  
+LA
+Levi	Angrick		900596  
+LF
+Londyn	Frye		9004967  
+AK
+Axel	King		9005639  
+HB
+Harper	Batson		900597  
+JK
+Jack	Knox		9005888  
+DN
+Deven	Newby		dn9005682  
+KJ
+Kaleigh	Jackson		900736  
+BW
+brayden	wright		9006868  
+TP
+Trevion	Parker		900545  
+MK
+Madelyn	Knight		9007699  
+DP
+Dawson	Pruett		9005922  
+AH
+aidyn	harrell		9007726  
+JL
+jaren	litton		9005606  
+KS
+Karleigh	simpson		90088  
+KB
+Kennedy	Burton		9005593  
+SD
+Sydney	downes		9005006  
+CW
+Conner	Wright		cw9005956  
+EP
+Ethan	Poindexter		9007030  
+SM
+savannah	miller		9005046  
+AC
+Annabell	Chapin		ac9006434  
+KL
+Karson	Leathers		900589  
+KH
+Keith	Hyser		9004540  
+AH
+Ava	Hale		900554  
+JW
+Jacob	walden		9005458  
+MH
+Mark	Herbert		9008603  
+AS
+Ayla	Smith		9006053  
+HH
+hannah	hauser		9008  
+UH
+Uriah	Hoy		9005886  
+JR
+Joshua	Riddle		9005453  
+AH
+Amelia	Hacker-Robertson		9004989  
+NH
+Naomi	Hunter		9005890  
+HD
+Hannah	Donahue		9005392  
+BS
+brooklyn	schultz		bs900624  
+MH
+maddysun	harkrider		900544  
+VA
+Vera	Adams		9005573  
+MJ
+Madison	Jenkins		9005856  
+LR
+laraeha	ray		lr9005648  
+KC
+Kyli	Cassity		9005500  
+IK
+ian	koons		9005234  
+KF
+Kaydence	Fishel		9005439  
+EH
+Emma	Haggard		9005905  
+HD
+Henry	DuBois		9003938  
+UH
+Uriah	Hoy		9005886  
+ST
+savannah	traver		9007578  
+TW
+tatum	white		900549  
+MC
+Matthias	Campbell		9008607  
+SK
+stormie	knight		9005952  
+VD
+Viola	Davis		9005875  
+RS
+Rocco	strunk		9008073  
+JS
+Jacob	Saunders		js9005494  
+LA
+Levi	Angrick		900596  
+LF
+Londyn	Frye		9004967  
+AK
+Axel	King		9005639  
+HB
+Harper	Batson		900597  
+JK
+Jack	Knox		9005888  
+DN
+Deven	Newby		dn9005682  
+KJ
+Kaleigh	Jackson		900736  
+BW
+brayden	wright		9006868  
+TP
+Trevion	Parker		900545  
+MK
+Madelyn	Knight		9007699  
+DP
+Dawson	Pruett		9005922  
+AH
+aidyn	harrell		9007726  
+JL
+jaren	litton		9005606  
+KS
+Karleigh	simpson		90088  
+KB
+Kennedy	Burton		9005593  
+Sydney downes
+ 9005006
+SD
+Conner Wright
+ cw9005956
+CW
+Ethan Poindexter
+ 9007030
+EP
+savannah miller
+ 9005046
+SM
+Annabell Chapin
+ ac9006434
+AC
+Karson Leathers
+ 9005891
+KL
+Keith Hyser
+ 9004540
+KH
+Ava Hale
+ 9005514
+AH
+Jacob walden
+ 9005458
+JW
+Mark Herbert
+ 9008603
+MH
+Sandra Grogan
+ 9005481
+SG
+makenna muse
+ 9004832
+MM
+Ava Burris
+ ab9005901
+AB
+Maddison Evans
+ 9006352
+ME
+Jocie Smith
+ 9005907
+JS
+mckenzie sutton
+ 9005454
+MS
+jordan crone
+ 9005957
+JC
+Ellie Reagan
+ 9005911
+ER
+Layla Davis
+ 9005218
+LD
+Charli Wood
+ 9004847
+CW
+Jack Kay
+ 9005638
+JK
+chase sexton
+ 9008179
+CS
+Tad Nicholson
+ 9005896
+TN
+Dante Chandler r...
+ 9005692
+DC
+kaiden summmerlo...
+ 9005906
+KS
+hunter morley
+ 5895
+HM
+Alex Riley
+ 9006026
+AR
+hunter morley
+ 5895
+HM
+shane harrell
+ 9007728
+SH
+daniel sadler
+ 9007535
+DS
+Jack kay
+ 9005638
+JK
+Jalen Reynolds
+ jr900
+JR
+Exander Huffstut...
+ 9006572
+EH
+Kaden Moore
+ 9007312
+KM
+Dante Chandler r...
+ 9005692
+DC
+kaiden summmerlo...
+ 9005906
+KS
+Blake Dougals
+ 9005610
+BD
+Jethro Chinn
+ 9004566
+JC
+walker lagrange
+ 9004820
+WL
+Trevor Floyd
+ 9005224
+TF
+Emily Westgate
+ 9005459
+EW
+Krislynn Swonger
+ 9007127
+KS
+allison carmicha...
+ 9005435
+AC
+phoebe wetherill
+ 9005064
+PW
+Graden Ison
+ 9005021
+GI
+Kelsie Eli
+ 9007482
+KE
+Makenzie dorsett
+ 9005274
+MD
+Eden Surber
+ 9004843
+ES
+Dani Dawson
+ 9005050
+DD
+lyric karr
+ 9007324
+LK
+genipher mann
+ 9008311
+GM
+hannah hauser
+ 9008111
+HH
+Levi Ranard
+ 9005275
+LR
+Kaydence Fishel
+ 9005439
+KF
+Emma Haggard
+ 9005905
+EH
+lyric karr 2
+ 9007324
+LK
+Korbin Hill
+ 9007315
+KH
+lyric karr
+ 9007324
+LK
+Tayla Wittman
+ 9005492
+TW
+Lillian Kilbride
+ 9005526
+LK
+Bentley Kelley
+ 9007874
+BK
+Autumn Knight
+ 9005949
+AK
+melleah thomas
+ 9005472
+MT
+rayne parks
+ 9008435
+RP
+anika flikkie
+ 9004947
+AF
+emily locke
+ 9004544
+EL
+Brandon Arnett
+ 9005468
+BA
+Maloriee Arms
+ 9004712
+MA
+aydn bailey
+ 9005489
+AB
+max dyer
+ 9004799
+MD
+hagan paulus
+ 9005155
+HP
+Krislynn Swonger
+ 9007127
+KS
+karson burgess 2
+ 9005434
+KB
+Elizar Freeman 2
+ 9005471
+EF
+Exander Huffstut...
+ 9006572
+EH
+Isaiah phillippe
+ 9005515
+IP
+Connor Gregory
+ 9005464
+CG
+Evan Charles
+ ec9008239
+EC
+Graden Ison
+ 9005021
+GI
+Kole Browning
+ 9006765
+KB
+linlee worland
+ 9004955
+LW
+Layliana Floyd
+ 9006668
+LF
+Alyssa Mobley
+ 9005225
+AM
+marissa davis
+ 9005910
+MD
+Skylar Anglemyer
+ 9005899
+SA
+allison carmicha...
+ 9005435
+AC
+Olivia halfacre
+ 9006367
+OH
+Novah Bishop
+ 9006550
+NB
+Ily Swan
+ 9005285
+IS
+Megan Mobley
+ 9005686
+MM
+hunter morley
+ 5895
+HM
+Eliot Simkins
+ 9006671
+ES
+bentley campbell
+ 
+BC
+Dhwip Patel
+ 7951
+DP
+neaven neal
+ 9005678
+NN
+marcus fuson
+ 9007501
+MF
+troy padgett
+ 9005487
+TP
+Lucas minor
+ 9005371
+LM
+jacob harris
+ 9004401
+JH
+Layla VanHorn
+ 9005863
+LV
++40 more
+Soccer (Freeman & M. Wheeler)
+Soccer Practice Field (Behind Tennis Courts)
+19 of 20 slots filled
+gabriel hasselbu...
+ 9005990
+GH
+bentley grinstea...
+ 9005630
+BG
+Sawyer Strole
+ ss9006336
+SS
+Talan Newman
+ 
+TN
+Sawyer Strole
+ ss9006336
+SS
+Edward wInkle
+ 9005862
+EW
+gavin todd 2
+ 9005555
+GT
+Uriah Hoy
+ 9005886
+UH
+gabriel hasselbu...
+ 9005990
+GH
+kayden sparks 2
+ 9005619
+KS
+Ava Burris
+ 9005901
+AB
+Maddison Evans
+ 9006352
+ME
+Viola Davis
+ 9005875
+VD
+Aliya Truax
+ 9005923
+AT
+Makenzie dorsett
+ 9005274
+MD
+Eden Surber
+ 9004843
+ES
+aubrey mangia
+ 9005582
+AM
+Missie Rich
+ 9006181
+MR
+Cecilia Arnold
+ 90005219
+CA
+Skylar Anglemyer
+ 9005899
+SA
+Jack Kay
+ 9005638
+JK
+Conner Wright
+ cw9005956
+CW
+Kaden Moore
+ 9007312
+KM
+Dante Chandler r...
+ 9005692
+DC
+kaiden summmerlo...
+ 9005906
+KS
+Blake Dougals
+ 9005610
+BD
+shane harrell
+ 9007728
+SH
+Dhwip Patel
+ 7951
+DP
+daniel sadler
+ 9007535
+DS
+Roman Ruble
+ 9005649
+RR
+Jalen Reynolds
+ jr900
+JR
+Tad Nicholson
+ 9005896
+TN
+chase sexton
+ 9008179
+CS
+bentley campbell
+ 
+BC
+Connor Gregory
+ 9005464
+CG
+Isaiah phillippe
+ 9005515
+IP
+Leland Kinzer
+ 9008580
+LK
+jeremiah robert
+ 9007031
+JR
+bentley grinstea...
+ 9005630
+BG
+Edward wInkle
+ 9005862
+EW
+makenna muse
+ 9004832
+MM
+Emily Westgate
+ 9005459
+EW
+linlee worland
+ 9004955
+LW
+Eliot Simkins
+ 9006671
+ES
+jordan crone
+ 9005957
+JC
+Jocie Smith
+ 9005907
+JS
+Ethan Poindexter
+ 9007030
+EP
+Ellie Reagan
+ 9005911
+ER
+Ily Swan
+ 9005285
+IS
+Shelby Ranard
+ 9005227
+SR
+marcus fuson
+ 9007501
+MF
+Lucas minor
+ 9005371
+LM
+Kaylee Barnett
+ 9004483
+KB
+Dani Dawson
+ 9005050
+DD
+Chayse Eberle
+ 9003911
+CE
+adalyn england
+ 9005478
+AE
+lyric karr
+ 9007324
+LK
+Korbin Hill
+ 9007315
+KH
+kortland henders...
+ 9004825
+KH
+Brandon Arnett
+ 9005468
+BA
+genipher mann
+ 9008311
+GM
+Autumn Knight
+ 9005949
+AK
+Kayden Burgin
+ 9005804
+KB
+Emily Freeman
+ 9005199
+EF
+rozlynn buffingt...
+ 9004910
+RB
+walker lagrange
+ 9004820
+WL
+Trevor Floyd
+ 9005224
+TF
+Lincoln Truax
+ 9005456
+LT
+Exander Huffstut...
+ 9006572
+EH
+hunter morris 2
+ 9005971
+HM
+Aaden Turner
+ 9006720
+AT
+kash morries
+ 9005920
+KM
+bryson hays
+ 9005092
+BH
+jacob harris
+ 9004401
+JH
+Wyatt Harmon
+ 9008175
+WH
+Sandra Grogan
+ 9005481
+SG
+mckenzie sutton
+ 9005454
+MS
+Alicia Oliver
+ 9005303
+AO
+kylee wampler
+ 9005946
+KW
+sonja reddick
+ 9005255
+SR
+karlee whitaker
+ 9007973
+KW
+kyle cornett
+ 9005201
+KC
+baylee manning
+ 9005908
+BM
+arianna smith
+ 9008498
+AS
+Dekota Allen
+ 9007554
+DA
+hunter morley
+ 5895
+HM
+Alex Riley
+ 9006026
+AR
+Alyssa Mobley
+ 9005225
+AM
+marissa davis
+ 9005910
+MD
+Jethro Chinn
+ 9004566
+JC
+karson burgess
+ 9005434
+KB
+Elizar Freeman
+ 9005471
+EF
+Carsyn Wheeler
+ 9005460
+CW
+Scout Moran
+ 9006359
+SM
+Kai Deford
+ 9005972
+KD
+hagan paulus
+ 9005155
+HP
+karson burgess
+ 9005434
+KB
+Elizar Freeman
+ 9005471
+EF
+Uriah Hoy
+ 9005886
+UH
+Layla VanHorn
+ 9005863
+LV
+Hart Houck
+ 9005978
+HH
+Bentley Kelley
+ 9007874
+BK
+Talya Hall-o'Bri...
+ 9008310
+TH
+Blake Keller
+ 9004895
+BK
+Lester Mobley
+ 9003952

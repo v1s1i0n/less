@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Text File Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            padding: 30px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        #output {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 12px;
+            white-space: pre-wrap;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Contents of message.txt</h1>
+    <div id="output">Loading...</div>
+
+    <script>
+        fetch('hiddenpass.txt')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('output').textContent = text;
+            })
+            .catch(error => {
+                document.getElementById('output').textContent = 'Error loading passwords.';
+                console.error(error);
+            });
+    </script>
+
+</body>
+</html>
